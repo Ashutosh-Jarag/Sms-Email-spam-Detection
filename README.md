@@ -29,7 +29,7 @@ This project is a spam detection system for SMS and email messages. It classifie
 6. Deploy the web app: `streamlit run app.py`
 
 ## Usage
-1. Open the Jupyter Notebook (`Spam_Detection.ipynb`) to:
+1. Open the Jupyter Notebook (`email-sms-spam-detection.ipynb`) to:
    - Perform EDA, data cleaning, and transformation
    - Train ML models and pickle the Naive Bayes model
 2. Launch the Streamlit app:
